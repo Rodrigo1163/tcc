@@ -1,0 +1,6 @@
+
+class CreateProfileService {
+
+}
+
+export { CreateProfileService }
